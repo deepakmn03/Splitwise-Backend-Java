@@ -21,21 +21,5 @@ public class Main{
         manager.addTransactionToGroup(transaction3);
 
         manager.showSplit();
-
-
-
-        // userGroup.addUser(user1);
-        // userGroup.addUser(user2);
-        // userGroup.addUser(user3);
-
-        // userGroup.addExpense(transaction1);
-        // userGroup.addExpense(transaction2);
-        // userGroup.addExpense(transaction3);
-
-        // try {
-        //     userGroup.showSplit();
-        // } catch (ArithmeticException e){
-        //     System.err.println(e.getMessage());
-        // }
     }
 }
