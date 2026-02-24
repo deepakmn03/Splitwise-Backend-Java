@@ -2,8 +2,8 @@ public class Main{
     public static void main(String [] args){
         System.out.println("Hello from Splitwise!!");
 
-        User user1 = new User("Deepak", "deepakmn@mescn.com", 01);
-        User user2 = new User("Muskan", "muskanraj@mescn.com", 02);
+        User user1 = new User("John", "john@mescn.com", 01);
+        User user2 = new User("Doe", "doe@mescn.com", 02);
         User user3 = new User("xxxx", "xxx@mescn.com", 03);
 
         Transaction transaction1 = new Transaction(user1, 100.0);
