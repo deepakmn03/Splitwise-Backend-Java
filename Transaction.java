@@ -7,6 +7,7 @@ public class Transaction {
         this.user = user;
         this.amountPaid = amountPaid;
     }
+    //no arg constructor
     Transaction(){
     }
     public User getUser(){
