@@ -5,7 +5,6 @@ A simple expense-sharing application to split bills and track shared expenses am
 
 ## Features
 
-- Create groups and add members
 - Record shared expenses
 - Automatic calculation of who owes whom
 - Settlement suggestions [Yet To Implement]

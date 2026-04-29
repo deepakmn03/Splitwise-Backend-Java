@@ -8,6 +8,7 @@ public class User {
         this.email = email;
         this.id = id;
     }
+    // no arg constructor
     User(){
     }
 
