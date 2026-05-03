@@ -20,7 +20,4 @@ cd Splitwise
 ## Technologies
 
 - Java - for backend
-
-## License
-
-MIT
+-------------------------
